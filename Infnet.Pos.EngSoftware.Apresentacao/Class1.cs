@@ -4,6 +4,6 @@ namespace Infnet.Pos.EngSoftware.Apresentacao
 {
     public class Class1
     {
-    //mudanca inicial
+    //mudanca inicial 1
 }
 }
